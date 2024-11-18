@@ -6,7 +6,7 @@
 - 2 Renommer le fichier avec votre nom et prénom - éviter les espaces et caractères spéciaux.
 - 3 Compléter votre nom et votre prénom dans le fichier
 - 4 Faire les exercices et bien enregistrer
-- 5 Retourner votre fichier par email à fguichard@ext-istpirup.com
+- 5 Retourner votre fichier par email
 
 ## Consignes
 
