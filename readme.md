@@ -1,4 +1,4 @@
-# Test Python 01 - BACHTECH24
+# Test Python 02 - BACHTECH24
 
 **Le sujet du test est sujet.ipynb**
 
